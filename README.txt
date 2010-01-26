@@ -4,7 +4,7 @@
 
 	Homepage: http://www.ejabberd.im/mod_muc_admin
 	Author: Badlop
-	Requirements: ejabberd 1.1.x up to 2.0.1 for basic functionality;
+	Requirements: ejabberd 1.1.x .. 2.0.1 for basic functionality;
 	ejabberd 2.0.2 or higher to get all functionality (like WebAdmin pages)
 
 
